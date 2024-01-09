@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/Hangten/static/css/main.6c54b7bf.css",
-    "main.js": "/Hangten/static/js/main.15264cbf.js",
-    "static/media/logo_and.png": "/Hangten/static/media/logo_and.a3e997ebc3ae60a0ddbf.png",
-    "index.html": "/Hangten/index.html",
-    "static/media/ico-select.svg": "/Hangten/static/media/ico-select.1110abb57da538ddbe70.svg",
-    "static/media/icon_arrow_down.svg": "/Hangten/static/media/icon_arrow_down.9599be1e4be474afd609.svg",
-    "main.6c54b7bf.css.map": "/Hangten/static/css/main.6c54b7bf.css.map",
-    "main.15264cbf.js.map": "/Hangten/static/js/main.15264cbf.js.map"
+    "main.css": "/static/css/main.7287b28b.css",
+    "main.js": "/static/js/main.eeb2df1f.js",
+    "static/media/logo_and.png": "/static/media/logo_and.a3e997ebc3ae60a0ddbf.png",
+    "index.html": "/index.html",
+    "static/media/ico-select.svg": "/static/media/ico-select.6558b19231c01f9bd889.svg",
+    "static/media/icon_arrow_down.svg": "/static/media/icon_arrow_down.9599be1e4be474afd609.svg",
+    "main.7287b28b.css.map": "/static/css/main.7287b28b.css.map",
+    "main.eeb2df1f.js.map": "/static/js/main.eeb2df1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.6c54b7bf.css",
-    "static/js/main.15264cbf.js"
+    "static/css/main.7287b28b.css",
+    "static/js/main.eeb2df1f.js"
   ]
 }
