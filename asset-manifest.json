@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/static/css/main.7287b28b.css",
-    "main.js": "/static/js/main.eeb2df1f.js",
-    "static/media/logo_and.png": "/static/media/logo_and.a3e997ebc3ae60a0ddbf.png",
-    "index.html": "/index.html",
-    "static/media/ico-select.svg": "/static/media/ico-select.6558b19231c01f9bd889.svg",
-    "static/media/icon_arrow_down.svg": "/static/media/icon_arrow_down.9599be1e4be474afd609.svg",
-    "main.7287b28b.css.map": "/static/css/main.7287b28b.css.map",
-    "main.eeb2df1f.js.map": "/static/js/main.eeb2df1f.js.map"
+    "main.css": "/guon299/Hangten.git/static/css/main.0d140dd5.css",
+    "main.js": "/guon299/Hangten.git/static/js/main.eeb2df1f.js",
+    "static/media/logo_and.png": "/guon299/Hangten.git/static/media/logo_and.a3e997ebc3ae60a0ddbf.png",
+    "index.html": "/guon299/Hangten.git/index.html",
+    "static/media/ico-select.svg": "/guon299/Hangten.git/static/media/ico-select.6558b19231c01f9bd889.svg",
+    "static/media/icon_arrow_down.svg": "/guon299/Hangten.git/static/media/icon_arrow_down.9599be1e4be474afd609.svg",
+    "main.0d140dd5.css.map": "/guon299/Hangten.git/static/css/main.0d140dd5.css.map",
+    "main.eeb2df1f.js.map": "/guon299/Hangten.git/static/js/main.eeb2df1f.js.map"
   },
   "entrypoints": [
-    "static/css/main.7287b28b.css",
+    "static/css/main.0d140dd5.css",
     "static/js/main.eeb2df1f.js"
   ]
 }
